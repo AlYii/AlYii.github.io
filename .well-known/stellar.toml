@@ -5,3 +5,10 @@ ACCOUNTS=[
 [DOCUMENTATION]
 ORG_URL="https://alyii.github.io"
 ORG_LOGO="https://AlYii.github.io/dog1.png"
+[[CURRENCIES]]
+code="LoveDog"
+issuer="GBWDOP7ONDKNJ222C3AS7KV74HGHIGZEM2AV3662HKJFSCUYJ7TQW2QB"
+display_decimals=7
+name="LoveDog"
+desc="dogelov your toke”
+imagr="https://AlYii.github.io/dog1.png"
