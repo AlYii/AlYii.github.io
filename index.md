@@ -1,11 +1,11 @@
 Minimal theme
-Logo
+#Logo
 Minimal is a theme for GitHub Pages.
 ![dog1](https://github.com/AlYii/AlYii.github.io/blob/main/.well-known/LoveDog.png)
 View the Project on GitHub
 pages-themes/minimal
 
-Download
+#Download
 ZIP File
 Download
 TAR Ball
@@ -13,7 +13,7 @@ View On
 GitHub
 Text can be bold, italic, or strikethrough.
 
-Link to another page.
+Link to a#nother page.
 
 There should be whitespace between paragraphs.
 
