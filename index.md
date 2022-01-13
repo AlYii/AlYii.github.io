@@ -1,17 +1,11 @@
-Minimal theme
-#Logo
-Minimal is a theme for GitHub Pages.
-![dog1](https://raw.githubusercontent.com/AlYii/AlYii.github.io/main/.well-known/LoveDog.png)
-View the Project on GitHub
-pages-themes/minimal
+#LoveDog
 
-#Download
-ZIP File
-Download
-TAR Ball
-View On
-GitHub
-Text can be bold, italic, or strikethrough.
+![dog1](https://raw.githubusercontent.com/AlYii/AlYii.github.io/main/.well-known/LoveDog.png)
+
+
+ISSUER: GBWDOP7ONDKNJ222C3AS7KV74HGHIGZEM2AV3662HKJFSCUYJ7TQW2QB
+
+
 
 Link to a#nother page.
 
