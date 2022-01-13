@@ -1,7 +1,7 @@
 Minimal theme
 Logo
 Minimal is a theme for GitHub Pages.
-
+https://github.com/AlYii/AlYii.github.io/blob/main/.well-known/LoveDog.png
 View the Project on GitHub
 pages-themes/minimal
 
